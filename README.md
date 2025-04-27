@@ -5,7 +5,7 @@
 
 ## About me
 
-  💼 Blockchain Engineer. I like Ethereum, Solana, Ripple etc.
+  💼 I am a Backend Engineer. I like designing, building, maintaining scalable backend systems using Node.js, Golang, Java, C# and Python.
 
 <!--Skills-->
 <h2 align="center">

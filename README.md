@@ -5,7 +5,12 @@
 
 ## About me
 
-  💼 I am a Backend Engineer. I like designing, building, maintaining scalable backend systems using Node.js, Golang, Java, C# and Python.
+  💼 Full stack engineer with 6+ years of experience in building scalable, high-performance web applications. Expertise in
+Laravel, Vue.js, React, and backend technologies such as Node.js and Python. Proven ability to design and develop
+complex systems, including CRM platforms, real-time dialers, lead distribution engines, and order management systems
+(OMS). Strong experience in microservices architecture, Twilio integration, and Chrome Extension development. Highly
+skilled in making strategic architectural decisions and collaborating with remote teams to deliver high-quality solutions.
+Adept at working independently and effectively managing complex projects from concept to completion.
 
 <!--Skills-->
 <h2 align="center">
